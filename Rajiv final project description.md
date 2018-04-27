@@ -7,7 +7,7 @@ Acquiring knowledge to populate the knowledge base and appropriately populating 
 * #### Knowledge base Visualization:
 Provide a mechanism to visualize the nodes and connections. For example, being able to see visually that Apple's dependence on Samsung and/or LG for the iPhone screens.
 
-<img src="Sample Diagram.jpg"
+<img src="https://raw.githubusercontent.com/rajivuppal26/awesome_repo/master/Sample%20Diagram.jpg"
      alt="Sample Graph Visualization"/>
 
 * #### Knowledge base Query:
